@@ -14,6 +14,7 @@
     <BlogHome />
     <Contact />
     <CallToAction />
+    <Footer />
   </div>
 </template>
 
@@ -32,6 +33,7 @@
   import BlogHome from "~/components/BlogHome.vue";
   import Contact from "~/components/Contact.vue";
   import CallToAction from "~/components/CallToAction.vue";
+  import Footer from "~/components/Footer.vue";
 
 export default {
   components: {
@@ -48,12 +50,10 @@ export default {
     Faq,
     BlogHome,
     Contact,
-    CallToAction
-
+    CallToAction,
+    Footer
   }
 }
 </script>
 
-<style>
-
-</style>
+<style></style>
