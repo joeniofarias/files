@@ -3,19 +3,27 @@
     <div class="container">
       <div class="brand-one__carousel owl-carousel thm__owl-carousel owl-theme">
         <div class="item">
+          <img src="/assets/images/brand/adidas.jpg" alt="">
+        </div><!-- /.item -->
+        <!--<div class="item">
           <img src="/assets/images/brand/brand-1-1.png" alt="">
+        </div>!-->
+       
+       <div class="item">
+          <img src="/assets/images/brand/nike.jpg" alt="">
         </div><!-- /.item -->
-        <div class="item">
+        <!--<div class="item">
           <img src="/assets/images/brand/brand-1-2.png" alt="">
+        </div>!-->
+        
+        <div class="item">
+          <img src="/assets/images/brand/skechers.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/brand/brand-1-3.png" alt="">
+          <img src="/assets/images/brand/redmi.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
-          <img src="/assets/images/brand/brand-1-4.png" alt="">
-        </div><!-- /.item -->
-        <div class="item">
-          <img src="/assets/images/brand/brand-1-5.png" alt="">
+          <img src="/assets/images/brand/apple.jpg" alt="">
         </div><!-- /.item -->
         <div class="item">
           <img src="/assets/images/brand/brand-1-6.png" alt="">

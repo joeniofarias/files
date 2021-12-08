@@ -26,7 +26,7 @@
                   <img src="/assets/images/shapes/pricing-line-1-1.png" alt="" class="pricing-one__line">
                   <img src="/assets/images/shapes/lol1.png" alt="" class="pricing-one__icon">
                   <!--<img src="/assets/images/shapes/pricing-icon-1-1.png" alt="" class="pricing-one__icon">!-->
-                  <h3>$20.00</h3>
+                  <h3>R$ 100,00</h3>
                   <p>Pacote básico</p>
                   <ul class="list-unstyled pricing-one__list">
                     <li><i class="fa fa-check"></i> Recursos extras</li>
